@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iGirishD
-- 👀 I’m interested in Programming. To build something cool, useful, and noteworthy.
-- 🌱 I’m currently learning Python Programming Language via Harvard CS50P by Professor David J. Malan
+- 👀 I’m interested in Technical Writing and Product Management. To write and build the next generation of products that become noteworthy.
+- 🌱 I’m currently learning Technical Writing from Google for Developers
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
