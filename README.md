@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iGirishD
-- 👀 I’m interested in Technical Writing and Product Management. To write and build the next generation of products that become noteworthy.
+- 👀 I’m interested in Technical Writing and Product Management. To build the next generation of products that become noteworthy.
 - 🌱 I’m currently learning Technical Writing from Google for Developers
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
