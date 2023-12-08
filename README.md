@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @iGirishD
-- I have completed my Bachelor's Degree in Computer Engineering.
-- 👀 I’m interested in Technical Writing and Product Management. To build the next generation of products that become noteworthy.
-- 🌱 I have completed learning "Technical Writing from Google for Developers" and I’m currently learning "Technical Writing from saylor.org". I have also enrolled in the course "The Complete AI-Powered Copywriting Course & ChatGPT Course" on Udemy.
-- 💞️ I’m looking to collaborate on open-source projects.
+- I completed my Bachelor's Degree in Computer Engineering from Pune University, India, in 2020 with a grade of First Class with Distinction. 
+- For the past three years, I've been working as a Technical Writer on a contract or freelance basis.
+- Additionally, I successfully completed an online Investment Banking virtual experience internship with J.P. Morgan.
+- 👀 I’m keen on delving into Technical Writing, AI Product Management, and Generative AI to contribute to the development of the next generation of noteworthy products.
+- 🌱 Beyond my educational qualifications, I consistently upskill across various domains. I've completed the Technical Writing course from Google for Developers and hold certifications in Financial Markets from Yale University, Digital Marketing from Google, and Data Science from IBM. Currently, I'm enrolled in the Technical Writing course on saylor.org, and concurrently, I'm also learning 'The Complete AI-Powered Copywriting Course & ChatGPT Course' on Udemy.
+- 💞️ I'm eager to collaborate on innovative projects.
 - 📫 How to reach me ...
 
 <!---
