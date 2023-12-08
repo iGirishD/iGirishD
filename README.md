@@ -4,7 +4,7 @@
 - Additionally, I successfully completed an online Investment Banking virtual experience internship with J.P. Morgan.
 - 👀 I’m keen on delving into Technical Writing, AI Product Management, and Generative AI to contribute to the development of the next generation of noteworthy products.
 - 🌱 Beyond my educational qualifications, I consistently upskill across various domains. I've completed the Technical Writing course from Google for Developers and hold certifications in Financial Markets from Yale University, Digital Marketing from Google, and Data Science from IBM. Currently, I'm enrolled in the Technical Writing course on saylor.org, and concurrently, I'm also learning 'The Complete AI-Powered Copywriting Course & ChatGPT Course' on Udemy.
-- 💞️ I have commenced my GitHub documentation journey and I am eager to collaborate on innovative projects and open-source projects.
+- 💞️ I have commenced my GitHub documentation journey, my portfolio is also in the works and I am eager to collaborate on innovative projects and open-source projects.
 - 📫 ...
 
 <!---
